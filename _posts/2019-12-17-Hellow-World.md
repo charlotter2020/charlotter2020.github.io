@@ -30,7 +30,7 @@ $$ fun^10xint^40=Ir2 $$
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Pockies</title>
+		<title>charlotter2020</title>
 	</head>
 	<body>
       <p>fuck you</p>
@@ -41,7 +41,7 @@ $$ fun^10xint^40=Ir2 $$
 ***图片***
 
 [靴](https://www.pixiv.net/artworks/53693541)
-![あぐら](https://github.com/charlotter2020/charlotter2020.github.io/blob/master/img/kenshi.jpg)
+![あぐら](https://github.com/charlotter2020/charlotter2020.github.io/blob/master/img/kenshi.jpg?raw=true)
 
 ------
 
