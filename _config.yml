@@ -56,8 +56,8 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: 4b6f0d6b052d161ada5e                          #生成的clientID
-  clientSecret: 9b34f0a42324a1f01df23176bfb584a3c5219e0    #生成的clientSecret
+  clientID: 60e4009a97f069ef9c72                         #生成的clientID
+  clientSecret: 8b9f4ef37b0c604b12979ba65d815d6028fa2e44    #生成的clientSecret
   repo: charlotter2020.github.io    #仓库名称
   owner: charlotter2020   #github用户名
   admin: charlotter2020
