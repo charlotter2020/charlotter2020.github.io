@@ -41,7 +41,7 @@ $$ fun^10xint^40=Ir2 $$
 ***图片***
 
 [靴](https://www.pixiv.net/artworks/53693541)
-![あぐら](https://raw.githubusercontent.com/Pockies/pic/master/741f9461gw1egj6n459n0j20fy0frtab.jpg)
+![あぐら](https://github.com/charlotter2020/charlotter2020.github.io/blob/master/img/kenshi.jpg)
 
 ------
 
