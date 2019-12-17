@@ -5,7 +5,7 @@ header-img: img/post-bg-desk.jpg
 #email: az3268086451@gmail.com
 description: "charlotter2020 | 人类观察笔记"
 keyword: "life0, zero, galgame, charlotter2020, 夏洛特2020, 单机, 黄油, 动漫, Anime"
-url: "http://qiubaiying.github.io"          # your host, for absolute URL
+url: "https://charlotter2020.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 #github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
 
@@ -71,8 +71,8 @@ gitalk:
 #ba_track_id: b50bf2b12b5338a1845e33832976fd68
 
 # Google Analytics
-ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-ga_domain: auto             # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+#ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
+#ga_domain: auto             # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
@@ -90,6 +90,3 @@ service-worker: true
 
 
 
-# Friends
-#friends: [
-#]
