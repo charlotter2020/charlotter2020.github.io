@@ -3,7 +3,7 @@ layout:     post
 title:      Hello World
 subtitle:   世界，你好
 date:       2019-12-17
-author:     Pockies
+author:     charlotter2020
 header-img: img/post-bg-001.jpg
 catalog: true
 tags:
@@ -33,7 +33,7 @@ $$ fun^10xint^40=Ir2 $$
 		<title>charlotter2020</title>
 	</head>
 	<body>
-      <p>fuck you</p>
+      <p>Seek common ground While reserving differences</p>
 	</body>
 </html>
 ```
