@@ -1,9 +1,9 @@
 # Site settings
-title: Waifu is Nothing
-SEOTitle: charlotter2020 | HuMan Blog
+title: Charlotter2020
+SEOTitle: Charlotter2020 | HuMan Blog
 header-img: img/post-bg-desk.jpg
 #email: az3268086451@gmail.com
-description: "charlotter2020 | HuMan Blog"
+description: "Charlotter2020 | HuMan Blog"
 keyword: "life0, zero, galgame, charlotter2020, 夏洛特2020, 单机, 黄油, 动漫, Anime"
 url: "https://charlotter2020.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
